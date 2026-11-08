@@ -1,0 +1,2 @@
+# HarnessKit writes an empty session log at every stop; keep them out of the repo
+.harnesskit/session-logs/
